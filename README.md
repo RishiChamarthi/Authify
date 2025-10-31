@@ -17,7 +17,7 @@ It allows users to **register, log in, verify accounts, reset passwords**, and *
 
 Here’s how **Authify** looks in action 👇
 
-All project images are available in the [📂 **Preview Folder**](./preview).
+All project images are available in the [📂 **Preview Folder**](./Preview).
 
 You can find:
 - Home Page
